@@ -27,7 +27,7 @@ The project consists of 2 parts.
 
 ## Project Achievements
 
-1) By using Dropout and Batch Normalization, In addition to several network layers. The accuracy of 30% was achieved (compared to porject requirements of 1%)
+1) By using Dropout and Batch Normalization, in addition to several network layers, the accuracy of 30% was achieved (compared to project requirements of 1%)
 2) I experimented with all the different pretrained models instead of just 1 required and achieved accuracy of 85%, compared to required 60%
 3) By using Bagging techniques I increased the final accuracy to 87%
 4) When testing the results I found that my dog which I always thought was a mix of labrador and another breed was identified as a Beuceron and when I looked up the pictures of the Beuceron breed I was previously unfamiliar with. My dog indeed resembled it the most!
